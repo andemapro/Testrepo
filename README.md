@@ -1,4 +1,3 @@
-# Testrepo
-## Editing the file 
-
-Its a markdown file in this repository 
+#  Test repo recommendation
+## How can I start with Github
+How can I start with Github?
